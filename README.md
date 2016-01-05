@@ -49,6 +49,7 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component)
 - [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
 - [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
+- [aframe-bmfont-text](https://github.com/mattdesl/aframe-bmfont-text) (by [@mattdesl])
 - [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe)
 - ["alongpath" component](https://jsbin.com/dasefeh/edit?html,output)
 
@@ -103,3 +104,4 @@ Your contributions and suggestions are heartily welcomed. Simply make a [pull re
 
 
 [@cheapsteak]: https://github.com/cheapsteak/
+[@mattdesl]: https://github.com/mattdesl/
